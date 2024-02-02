@@ -1,0 +1,176 @@
+{ "skeleton": { "images": "./images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "ponytail", "bone": "root", "attachment": "ponytail" },
+	{ "name": "sword", "bone": "root", "attachment": "sword" },
+	{ "name": "Cape", "bone": "root", "attachment": "Cape" },
+	{ "name": "forearm-back", "bone": "root", "attachment": "forearm-back" },
+	{ "name": "arm-back", "bone": "root", "attachment": "arm-back" },
+	{ "name": "hand-back", "bone": "root", "attachment": "hand-back" },
+	{ "name": "forearm-back-inside", "bone": "root", "attachment": "forearm-back-inside" },
+	{ "name": "thigh-back", "bone": "root", "attachment": "thigh-back" },
+	{ "name": "shin-back", "bone": "root", "attachment": "shin-back" },
+	{ "name": "shoe-back", "bone": "root", "attachment": "shoe-back" },
+	{ "name": "thigh-front", "bone": "root", "attachment": "thigh-front" },
+	{ "name": "shin-front", "bone": "root", "attachment": "shin-front" },
+	{ "name": "shoe-front", "bone": "root", "attachment": "shoe-front" },
+	{ "name": "skirt", "bone": "root", "attachment": "skirt" },
+	{ "name": "armor-plate", "bone": "root", "attachment": "armor-plate" },
+	{ "name": "armor-front", "bone": "root", "attachment": "armor-front" },
+	{ "name": "armor-back", "bone": "root", "attachment": "armor-back" },
+	{ "name": "shoulder-back", "bone": "root", "attachment": "shoulder-back" },
+	{ "name": "chest", "bone": "root", "attachment": "chest" },
+	{ "name": "forearm-front-inside", "bone": "root", "attachment": "forearm-front-inside" },
+	{ "name": "arm-front", "bone": "root", "attachment": "arm-front" },
+	{ "name": "hand-front", "bone": "root", "attachment": "hand-front" },
+	{ "name": "forearm-front", "bone": "root", "attachment": "forearm-front" },
+	{ "name": "shoulder-front", "bone": "root", "attachment": "shoulder-front" },
+	{ "name": "neck", "bone": "root", "attachment": "neck" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "blush-front", "bone": "root", "attachment": "blush-front" },
+	{ "name": "blush-back", "bone": "root", "attachment": "blush-back" },
+	{ "name": "mouth", "bone": "root", "attachment": "mouth" },
+	{ "name": "nose", "bone": "root", "attachment": "nose" },
+	{ "name": "eye-white", "bone": "root", "attachment": "eye-white" },
+	{ "name": "eye-pupil-front", "bone": "root", "attachment": "eye-pupil-front" },
+	{ "name": "eye-lashes-front", "bone": "root", "attachment": "eye-lashes-front" },
+	{ "name": "brow-front", "bone": "root", "attachment": "brow-front" },
+	{ "name": "eye-white-back", "bone": "root", "attachment": "eye-white-back" },
+	{ "name": "eye-pupil-back", "bone": "root", "attachment": "eye-pupil-back" },
+	{ "name": "eye-lashes-back", "bone": "root", "attachment": "eye-lashes-back" },
+	{ "name": "brow-back", "bone": "root", "attachment": "brow-back" },
+	{ "name": "hair-back", "bone": "root", "attachment": "hair-back" },
+	{ "name": "hair-side", "bone": "root", "attachment": "hair-side" },
+	{ "name": "hair-front", "bone": "root", "attachment": "hair-front" }
+],
+"skins": {
+	"default": {
+		"ponytail": {
+			"ponytail": { "x": 258.5, "y": -481.5, "width": 235, "height": 545 }
+		},
+		"sword": {
+			"sword": { "x": 393, "y": -663, "width": 294, "height": 478 }
+		},
+		"Cape": {
+			"Cape": { "x": 371.5, "y": -687, "width": 329, "height": 340 }
+		},
+		"forearm-back": {
+			"forearm-back": { "x": 478, "y": -647.5, "width": 36, "height": 93 }
+		},
+		"arm-back": {
+			"arm-back": { "x": 466.5, "y": -595, "width": 31, "height": 60 }
+		},
+		"hand-back": {
+			"hand-back": { "x": 492.5, "y": -701, "width": 43, "height": 44 }
+		},
+		"forearm-back-inside": {
+			"forearm-back-inside": { "x": 476, "y": -652, "width": 36, "height": 74 }
+		},
+		"thigh-back": {
+			"thigh-back": { "x": 447.5, "y": -755.5, "width": 65, "height": 137 }
+		},
+		"shin-back": {
+			"shin-back": { "x": 443, "y": -863.5, "width": 60, "height": 193 }
+		},
+		"shoe-back": {
+			"shoe-back": { "x": 464, "y": -967, "width": 112, "height": 74 }
+		},
+		"thigh-front": {
+			"thigh-front": { "x": 370.5, "y": -759, "width": 69, "height": 140 }
+		},
+		"shin-front": {
+			"shin-front": { "x": 354.5, "y": -871, "width": 73, "height": 184 }
+		},
+		"shoe-front": {
+			"shoe-front": { "x": 348.5, "y": -972, "width": 79, "height": 80 }
+		},
+		"skirt": {
+			"skirt": { "x": 414.5, "y": -686, "width": 167, "height": 110 }
+		},
+		"armor-plate": {
+			"armor-plate": { "x": 411.5, "y": -632, "width": 115, "height": 132 }
+		},
+		"armor-front": {
+			"armor-front": { "x": 350.5, "y": -690.5, "width": 109, "height": 141 }
+		},
+		"armor-back": {
+			"armor-back": { "x": 482, "y": -688, "width": 64, "height": 122 }
+		},
+		"shoulder-back": {
+			"shoulder-back": { "x": 467, "y": -552.5, "width": 70, "height": 79 }
+		},
+		"chest": {
+			"chest": { "x": 407.5, "y": -554, "width": 155, "height": 90 }
+		},
+		"forearm-front-inside": {
+			"forearm-front-inside": { "x": 307, "y": -655.5, "width": 30, "height": 79 }
+		},
+		"arm-front": {
+			"arm-front": { "x": 314.5, "y": -599, "width": 45, "height": 74 }
+		},
+		"hand-front": {
+			"hand-front": { "x": 308.5, "y": -706, "width": 51, "height": 46 }
+		},
+		"forearm-front": {
+			"forearm-front": { "x": 301.5, "y": -653.5, "width": 35, "height": 97 }
+		},
+		"shoulder-front": {
+			"shoulder-front": { "x": 337, "y": -545, "width": 76, "height": 82 }
+		},
+		"neck": {
+			"neck": { "x": 407, "y": -511, "width": 78, "height": 38 }
+		},
+		"head": {
+			"head": { "x": 398.5, "y": -385, "width": 243, "height": 258 }
+		},
+		"blush-front": {
+			"blush-front": { "x": 367.5, "y": -469.5, "width": 69, "height": 69 }
+		},
+		"blush-back": {
+			"blush-back": { "x": 481.5, "y": -462, "width": 51, "height": 58 }
+		},
+		"mouth": {
+			"mouth": { "x": 430, "y": -488, "width": 36, "height": 14 }
+		},
+		"nose": {
+			"nose": { "x": 436.5, "y": -467.5, "width": 9, "height": 7 }
+		},
+		"eye-white": {
+			"eye-white": { "x": 385, "y": -431.5, "width": 68, "height": 51 }
+		},
+		"eye-pupil-front": {
+			"eye-pupil-front": { "x": 390, "y": -431, "width": 38, "height": 48 }
+		},
+		"eye-lashes-front": {
+			"eye-lashes-front": { "x": 382, "y": -431.5, "width": 74, "height": 55 }
+		},
+		"brow-front": {
+			"brow-front": { "x": 389, "y": -406, "width": 66, "height": 22 }
+		},
+		"eye-white-back": {
+			"eye-white-back": { "x": 470, "y": -430.5, "width": 52, "height": 45 }
+		},
+		"eye-pupil-back": {
+			"eye-pupil-back": { "x": 469.5, "y": -430, "width": 29, "height": 42 }
+		},
+		"eye-lashes-back": {
+			"eye-lashes-back": { "x": 472, "y": -429, "width": 56, "height": 44 }
+		},
+		"brow-back": {
+			"brow-back": { "x": 471, "y": -406, "width": 54, "height": 20 }
+		},
+		"hair-back": {
+			"hair-back": { "x": 385, "y": -329, "width": 236, "height": 186 }
+		},
+		"hair-side": {
+			"hair-side": { "x": 494.5, "y": -377, "width": 83, "height": 172 }
+		},
+		"hair-front": {
+			"hair-front": { "x": 401.5, "y": -369.5, "width": 213, "height": 229 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
