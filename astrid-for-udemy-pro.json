@@ -1,4 +1,4 @@
-{ "skeleton": { "images": "./images/" },
+{ "skeleton": { "images": "/c/Spine Pro Course/images/" },
 "bones": [
 	{ "name": "root" }
 ],
